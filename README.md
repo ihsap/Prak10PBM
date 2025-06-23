@@ -1,4 +1,4 @@
-# Destini App - Flutter Story Game
+# Destini App
 
 Aplikasi interaktif berbasis Flutter yang memungkinkan pengguna untuk menentukan jalannya cerita melalui pilihan yang mereka buat. Setiap keputusan yang diambil akan mengarah ke alur cerita yang berbeda.
 
